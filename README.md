@@ -2,6 +2,8 @@
 
 This project is a robust and scalable backend service built with a modern tech stack, designed to manage ideas and users efficiently.
 
+![Swagger](swagger.png)
+
 ### Tech Stack
 - TypeScript
 - NestJS
